@@ -1,2 +1,3 @@
 this is a data file
 text added by feature1
+text added by feature2
